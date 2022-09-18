@@ -2,5 +2,5 @@ http://datachat.club/zhishixingqiu/
 http://datachat.club/tags/
 http://datachat.club/categories/
 http://datachat.club/about/
-http://datachat.club/2022/09/17/hello-world/
+http://datachat.club/hello-world/
 http://datachat.club/
